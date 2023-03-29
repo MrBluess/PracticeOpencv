@@ -15,5 +15,5 @@ cv2.waitKey()
 # Destruye o cierra las ventanas creadas por Opencv
 cv2.destroyAllWindows()
 
-#
+# Guardamos la imagen contenida en la variable img
 cv2.imwrite("PrimeraClase/imagenGuardada1.jpg", img)
