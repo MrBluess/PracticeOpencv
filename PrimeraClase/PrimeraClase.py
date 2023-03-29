@@ -17,3 +17,5 @@ cv2.destroyAllWindows()
 
 # Guardamos la imagen contenida en la variable img
 cv2.imwrite("PrimeraClase/imagenGuardada1.jpg", img)
+
+#
