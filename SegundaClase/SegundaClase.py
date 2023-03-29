@@ -10,3 +10,5 @@ cv2.waitKey()
 
 # Destruye o cierra las ventanas creadas por Opencv
 cv2.destroyAllWindows()
+
+#
