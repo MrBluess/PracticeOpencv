@@ -4,7 +4,7 @@
 - [@MrBluess](https://www.github.com/MrBluess)
 
 
-![Logo](https://scontent.fntr12-1.fna.fbcdn.net/v/t1.6435-9/90085783_2776486495780982_2616429815422517248_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFnI0ZMhvIA_TinEErxWqlZ7mKk23qRZ6zuYqTbepFnrMPiDjotYeEFaanssHsBBiCORNCx6yFG5KbL5LwHeSXO&_nc_ohc=U6Cxx7_EmpsAX86Ulq9&_nc_ht=scontent.fntr12-1.fna&oh=00_AfC_EIPoLQFt9QwodczgG_VKhlE2UXNuiuRQzykMm8DHpw&oe=644C754E)
+![Logo](https://media2.giphy.com/media/kSlj8H6LbhuWQ/giphy.gif?cid=ecf05e47s3wtys2nz3fpe3hg08wtrnyw1ljnuiw6k658ntnf&rid=giphy.gif&ct=g)
 # Practicas OPENCV - Python
 
 Este es un proyecto que incluye ejemplos de cómo utilizar la biblioteca OpenCV para el procesamiento de imágenes.
